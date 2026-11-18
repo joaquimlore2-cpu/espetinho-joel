@@ -1,0 +1,18 @@
+{
+  "name": "Espetinho do Joel · Caixa",
+  "short_name": "Espetinho",
+  "description": "Caixa do Espetinho do Joel: mesas, contas, cobrança e estoque.",
+  "lang": "pt-BR",
+  "start_url": "./#mesas",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EDF1EC",
+  "theme_color": "#1D5A41",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
